@@ -29,7 +29,7 @@ Main Note: when inputting manually, you are to input p, follwed by xA and xB.
 
 	CALCULATING THE PRIMITIVE ROOT:
 
-		Though the definition of a primitive root is simple:
+		Though the definition of a primitive root is simple (where p is a pre-chosen prime number):
 
 			A positive integer greater than 0 and less than p which, when multiplied by itself between 1 and p-1 times, and modulus against p each time, produces every number from 1 to p-1.
 
